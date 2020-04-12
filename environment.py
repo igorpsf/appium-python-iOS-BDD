@@ -1,3 +1,5 @@
+from appium import webdriver
+
 # iOS (Real device)
 desired_capabilities = {
     "platformName": "iOS",
